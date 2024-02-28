@@ -5,13 +5,15 @@ This is an sample user management website which is based on React-Axios which wa
 
 ## Lessons Learned
 
-<b>Creating My Own Mock API</b>: 
-- https://mockapi.io/ --> Through this website I created my own api which was used by me in this task.
-- My User API : https://65d5835b3f1ab8c63437249d.mockapi.io/api/UserData
-  
-<b>Using Axios</b>: 
-- I learned to do CRUD operations using axios third party library which gave me wide exposure about APIs.
-
+- CRUD Operations
+- Where clause
+- Group By
+- Order By
+- Distinct
+- Having
+- Join (Inner,Outer, Left, Right)
+- Limit
+- Offset
 
 ## Screenshots
 
