@@ -1,7 +1,7 @@
 
 # MySql - DB - Task
 
-This is an sample user management website which is based on React-Axios which was designed by me using React. It's Guvi-Zen class Roadmap session: Day-30 and React : Day-10 Task.
+It has Guvi-Zen class Roadmap session: Day-33 and Database : Day-1 Task. In this task, I worked on various Mysql queries which helped me to understand how the relational database works.
 
 ## Lessons Learned
 
